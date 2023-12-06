@@ -33,4 +33,5 @@ class ViewController: UIViewController {
 
     На выходе МАССИВ КОРТЕЖЕЙ
          */
+    //777
     }
